@@ -1,9 +1,4 @@
 #define SHM_KEY 1234
-//===============================================================================
-// Assignment-5 submission 
-// Name: Darapu Adhithya Shiva Kumar Reddy
-// Roll No: 22CS30019
-//===============================================================================
 // server.c
 #include <stdio.h>
 #include <stdlib.h>
