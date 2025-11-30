@@ -1,9 +1,3 @@
-//===============================================================================
-// Assignment-6 submission 
-// Name: Darapu Adhithya Shiva Kumar Reddy
-// Roll No: 22CS30019
-//===============================================================================
-// server.c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
